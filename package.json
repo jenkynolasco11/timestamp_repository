@@ -1,0 +1,23 @@
+{
+  "name": "timestamp_server",
+  "version": "1.0.0",
+  "description": "Timestamp Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkynolasco11/timestamp_repository.git"
+  },
+  "author": "Jenky Nolasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenkynolasco11/timestamp_repository/issues"
+  },
+  "homepage": "https://github.com/jenkynolasco11/timestamp_repository#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
